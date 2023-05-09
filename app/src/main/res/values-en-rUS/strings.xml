@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewYearCountdown</string>
+    <string name="title">COUNTDOWN TO</string>
+    <string name="days">DAYS</string>
+    <string name="hours">HOURS</string>
+    <string name="minutes">MINUTES</string>
+    <string name="seconds">SECONDS</string>
+    <string name="newyear_title">WELCOME TO</string>
+    <string name="newyear_text">HAPPY NEW YEAR!</string>
+    <string name="setting">SETTINGS</string>
+    <string name="background">Background color</string>
+    <string name="text_background">Text color</string>
+    <string name="language">Languages</string>
+    <string name="fullscreen">Full screen</string>
+    <string name="korean">Korean</string>
+    <string name="english">English</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/setting">
+
+        <Preference
+            android:key="message"
+            android:title="@string/background" />
+
+        <ListPreference
+            android:entries="@array/array_language"
+            android:entryValues="@array/array_language"
+            android:key="language_list"
+            android:summary="한국어(Korean)"
+            android:title="@string/language"/>
+
+        <SwitchPreference
+            android:key="fullscreen"
+            android:title="@string/fullscreen"/>
+
+        <Preference
+            android:key="open"
+            android:title="Opensource license" />
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
