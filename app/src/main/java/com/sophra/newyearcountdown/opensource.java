@@ -15,6 +15,7 @@ public class opensource extends AppCompatActivity {
         TextView textView = findViewById(R.id.text);
 
         //하드코딩 나중에 수정
+        //
 
         textView.setText("The MIT License\n" +
                 "\n" +
